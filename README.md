@@ -2,7 +2,8 @@
 
 [![Hackathon](https://img.shields.io/badge/Hackathon-Darwix%20AI-blueviolet?style=for-the-badge)](https://darwix.ai)
 [![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red?style=for-the-badge&logo=streamlit)](https://streamlit.io)
-[![OpenAI](https://img.shields.io/badge/Powered%20By-OpenAI%20GPT-4.1-00A67E?style=for-the-badge&logo=openai)](https://openai.com)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 > **Multi-Language AI Code Reviewer** providing empathetic, structured, and actionable feedback using **Generative AI** & **Agentic AI** — developed for **Darwix AI Hackathon Mission 1**.  
@@ -31,11 +32,6 @@
   - Authoritative Resource Links
   - Before/After Diff
 - 💾 **Export** improved code & markdown reports.
-
----
-
-## 📸 Demo Screenshot
-![App Screenshot](/assets/Screenshot 2025-08-14 191527.png)
 
 ---
 
