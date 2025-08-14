@@ -35,7 +35,7 @@
 ---
 
 ## 📸 Demo Screenshot
-![App Screenshot](assets/Screenshot 2025-08-14 191527.png)
+![App Screenshot](/assets/Screenshot 2025-08-14 191527.png)
 
 ---
 
