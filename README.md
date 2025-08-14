@@ -35,7 +35,7 @@
 ---
 
 ## 📸 Demo Screenshot
-![App Screenshot](https://drive.google.com/file/d/1PzBHAQBTWiHVzHJsP2-hkmyqlcFR_u9u/view?usp=sharing)
+![App Screenshot](assets/Screenshot 2025-08-14 191527.png)
 
 ---
 
